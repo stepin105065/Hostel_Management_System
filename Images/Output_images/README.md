@@ -9,4 +9,6 @@
 ![Add Student Data](https://user-images.githubusercontent.com/69071665/95646373-639db300-0ae5-11eb-8ee6-700b361309ae.png)
 
 # Update Student Information
+![Update Student Data](https://user-images.githubusercontent.com/69071665/95646626-1f5fe200-0ae8-11eb-8f60-357f3d84bd36.png)
+
 
