@@ -21,6 +21,8 @@
 ![Remove Student Data](https://user-images.githubusercontent.com/69071665/95646800-aa8da780-0ae9-11eb-9086-733c4cf78f7c.png)
 
 # View All Students list
+![View All Student's Data](https://user-images.githubusercontent.com/69071665/95646802-afeaf200-0ae9-11eb-9432-007259743953.png)
+
 
 
 
