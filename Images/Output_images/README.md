@@ -12,4 +12,6 @@
 ![Update Student Data](https://user-images.githubusercontent.com/69071665/95646626-1f5fe200-0ae8-11eb-8f60-357f3d84bd36.png)
 
 # View Student Data
+![View Student Data](https://user-images.githubusercontent.com/69071665/95646704-dfe5c580-0ae8-11eb-9cb1-1b01e3c1036b.png)
 
+# View All Students of a Particular Hostel Block
