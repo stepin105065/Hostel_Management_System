@@ -11,4 +11,5 @@
 # Update Student Information
 ![Update Student Data](https://user-images.githubusercontent.com/69071665/95646626-1f5fe200-0ae8-11eb-8f60-357f3d84bd36.png)
 
+# View Student Data
 
