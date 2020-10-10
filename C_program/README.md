@@ -1,5 +1,5 @@
 # PASSWORD FOR THE PROGRAM :-
 
-Username : user
+Username : name
 
-Password : pass
+Password : word
