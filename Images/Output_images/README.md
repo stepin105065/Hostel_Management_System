@@ -18,5 +18,6 @@
 ![View Student list of Particular Block](https://user-images.githubusercontent.com/69071665/95646767-55ea2c80-0ae9-11eb-934f-d8b9613dc6ad.png)
 
 # Remove Student Data
+![Remove Student Data](https://user-images.githubusercontent.com/69071665/95646800-aa8da780-0ae9-11eb-9086-733c4cf78f7c.png)
 
 # View All Students list
