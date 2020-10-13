@@ -16,9 +16,10 @@
 # View All Students of a Particular Hostel Block
 ![View all students of a particular hostel](https://user-images.githubusercontent.com/69071665/95825347-56373180-0d4e-11eb-9665-43c821194ff6.png)
 
+# View All Students list
+![View all students data](https://user-images.githubusercontent.com/69071665/95825811-0f960700-0d4f-11eb-99e3-3c86fdbde390.png)
+
 # Remove Student Data
 ![Remove student record](https://user-images.githubusercontent.com/69071665/95825805-0d33ad00-0d4f-11eb-848b-0d92efdc12b0.png)
 
-# View All Students list
-![View all students data](https://user-images.githubusercontent.com/69071665/95825811-0f960700-0d4f-11eb-99e3-3c86fdbde390.png)
 
