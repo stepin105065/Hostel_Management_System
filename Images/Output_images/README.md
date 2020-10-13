@@ -13,9 +13,6 @@
 # Check details of existing student
 ![Check the details of existing account](https://user-images.githubusercontent.com/69071665/95825792-09a02600-0d4f-11eb-8c40-6c29262948e8.png)
 
-# View Student Data
-![View all students of a particular hostel](https://user-images.githubusercontent.com/69071665/95825347-56373180-0d4e-11eb-9665-43c821194ff6.png)
-
 # View All Students of a Particular Hostel Block
 ![View all students of a particular hostel](https://user-images.githubusercontent.com/69071665/95825347-56373180-0d4e-11eb-9665-43c821194ff6.png)
 
