@@ -17,10 +17,10 @@
 ![View all students of a particular hostel](https://user-images.githubusercontent.com/69071665/95825347-56373180-0d4e-11eb-9665-43c821194ff6.png)
 
 # Remove Student Data
-![Remove Student Data](https://user-images.githubusercontent.com/69071665/95646800-aa8da780-0ae9-11eb-9086-733c4cf78f7c.png)
+![Remove student record](https://user-images.githubusercontent.com/69071665/95825805-0d33ad00-0d4f-11eb-848b-0d92efdc12b0.png)
 
 # View All Students list
-![View All Student's Data](https://user-images.githubusercontent.com/69071665/95646802-afeaf200-0ae9-11eb-9432-007259743953.png)
+![View all students data](https://user-images.githubusercontent.com/69071665/95825811-0f960700-0d4f-11eb-99e3-3c86fdbde390.png)
 
-
+![Check the details of existing account](https://user-images.githubusercontent.com/69071665/95825792-09a02600-0d4f-11eb-8c40-6c29262948e8.png)
 
