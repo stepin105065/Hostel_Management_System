@@ -5,16 +5,16 @@
 ![welcome_page](https://user-images.githubusercontent.com/69071665/95825043-e88b0580-0d4d-11eb-9130-e1cb513b6d6d.png)
 
 # Add Student Data
-![Add Student Data](https://user-images.githubusercontent.com/69071665/95646373-639db300-0ae5-11eb-8ee6-700b361309ae.png)
+![Add student's data](https://user-images.githubusercontent.com/69071665/95825302-461f5200-0d4e-11eb-9980-d65ef74f76a3.png)
 
 # Update Student Information
-![Update Student Data](https://user-images.githubusercontent.com/69071665/95646626-1f5fe200-0ae8-11eb-8f60-357f3d84bd36.png)
+![Update Student Data](https://user-images.githubusercontent.com/69071665/95825319-4cadc980-0d4e-11eb-89dc-94cf8e1bd6f2.png)
 
 # View Student Data
-![View Student Data](https://user-images.githubusercontent.com/69071665/95646704-dfe5c580-0ae8-11eb-9cb1-1b01e3c1036b.png)
+![View all students of a particular hostel](https://user-images.githubusercontent.com/69071665/95825347-56373180-0d4e-11eb-9665-43c821194ff6.png)
 
 # View All Students of a Particular Hostel Block
-![View Student list of Particular Block](https://user-images.githubusercontent.com/69071665/95646767-55ea2c80-0ae9-11eb-934f-d8b9613dc6ad.png)
+![View all students of a particular hostel](https://user-images.githubusercontent.com/69071665/95825347-56373180-0d4e-11eb-9665-43c821194ff6.png)
 
 # Remove Student Data
 ![Remove Student Data](https://user-images.githubusercontent.com/69071665/95646800-aa8da780-0ae9-11eb-9086-733c4cf78f7c.png)
