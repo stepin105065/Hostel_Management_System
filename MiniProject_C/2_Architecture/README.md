@@ -1,4 +1,4 @@
-# Description:
+## Description
 The various options which the user can select to enter details.
 1. Add new student’s data - Allows the user to add new student’s data.
 2. Search student data - Allows user to search particular student data.
