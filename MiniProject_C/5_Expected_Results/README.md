@@ -1,4 +1,4 @@
-# Expected Results:
+## Expected Results
 
 1. The user can successfully login to the portal using valid username and password. If the username and password is invalid then shows a message "Sorry! login is unsuccessful". 
 2. The user can enter a student roll number, name, date of birth, age, place, email id, phone number, hostel block, father’s name, phone number. After entering all the details        popup, a message “Student details added successfully”.
