@@ -1,11 +1,11 @@
-# 1. Login Page
-# 2. Welcome Page
-# 3. Add Student Data
-# 4. Update Student Information
-# 5. Check details of existing student
-# 6. View All Students of a Particular Hostel Block
-# 7. View All Students list
-# 8. Remove Student Data
+1. Login Page
+2. Welcome Page
+3. Add Student Data
+4. Update Student Information
+5. Check details of existing student
+6. View All Students of a Particular Hostel Block
+7. View All Students list
+8. Remove Student Data
 
 ![Login page](https://user-images.githubusercontent.com/69071665/95646303-bc208080-0ae4-11eb-84cb-d733b556ca29.png)
 
